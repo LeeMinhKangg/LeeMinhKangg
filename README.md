@@ -1,4 +1,4 @@
-<h1 align="center">👋 Xin chào! Tôi là <strong>Lê Minh Khang</strong></h1>
+<h1 align="center"> Xin chào! Tôi là <strong>Lê Minh Khang</strong></h1>
 
 ---
 
