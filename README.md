@@ -1,9 +1,4 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://i.imgur.com/zN2b7hB.gif" width="800"/>
-</p>
-
-<h1 align="center">👋 Xin chào! Tôi là <span style="color:#ff9800">Lê Minh Khang</span></h1>
+<h1 align="center"> Xin chào! Tôi là <span style="color:#ff9800">Lê Minh Khang</span></h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%23FFD700&size=24&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;UI%2FUX+Designer;Tốt+nghiệp+Đại+Học+Tây+Đô+-+Loại+Giỏi;Yêu+thích+công+nghệ+và+xây+dựng+sản+phẩm+thực+tế">
